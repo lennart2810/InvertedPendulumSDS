@@ -1,46 +1,40 @@
 # SDS_Projektarbeit
 <div id="top"></div>
-<br />
 
 
 ## About The Project
+
 <br />
 <div align="center">
   
-  <h3>Best-README-Template</h3>
+  <h3>Bild</h3>
   
   <a href="https://github.com/lennart2810/SDS_Projektarbeit/blob/master/appendix">
-    <img src="appendix/screenshot.png" alt="Images" width="200" height="200">
+    <img src="appendix/screenshot.png" alt="Images" width="500" height="500">
   </a>
-  
 </div>
 
-<h3 align="center">Best-README-Template</h3>
+<!-- Überschrift mittig ausrichten -->
+<!-- <h3 align="center">Überschrift</h3> -->
 
 
 ### Built With
 
 * [Python](https://www.python.org)
 * [JupyterNotebook ](https://www.anaconda.com/products/individual#Downloads)
-*[JupyterNotebook ](https://www.anaconda.com/products/individual#Downloads)
 
 
+## Installation
 
-
-## Getting Started
-
-### Installation
-
-
-* Clone the repo
+* Clone the repo to get started.
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
 
-* Clone the repo `git clone https://github.com/your_username_/Project-Name.git` to get started.
+<!-- inline code -->
+<!-- Clone the repo `git clone https://github.com/your_username_/Project-Name.git` to get started. -->
 
 
-<!-- ROADMAP -->
 ## Roadmap
 
 :heavy_check_mark: ReadMe anlegen
@@ -50,37 +44,15 @@
 :soon: Pendulum
 
 
-<!-- CONTACT -->
 ## Contact
 
 _Lennart Fuhrig_ - [GitHub](https://github.com/lennart2810) 
 
 
-
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 Credits to:
-
 * [ReadMe-Template](https://github.com/othneildrew/Best-README-Template)
 
 
-<!-- vorgegeben 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
--->
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[product-screenshot]: appendix/screenshot.png
