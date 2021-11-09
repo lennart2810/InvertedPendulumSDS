@@ -38,7 +38,7 @@
 <br />
 <div align="center">
   
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/lennart2810/SDS_Projektarbeit/blob/master/appendix">
     <img src="appendix/screenshot.png" alt="Images" width="200" height="200">
   </a>
 
