@@ -38,8 +38,6 @@
 <br />
 <div align="center">
   
-    <h3 align="center">Screenshot</h3>
-  
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="appendix/screenshot.png" alt="Images" width="200" height="200">
   </a>
