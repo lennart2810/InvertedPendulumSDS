@@ -37,8 +37,8 @@ _Lennart Fuhrig_ - [GitHub](https://github.com/lennart2810)
 ## Acknowledgments
 
 Credits to:
-* [othneildrew](https://github.com/othneildrew/Best-README-Template)
-* [lukepolson](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid4.ipynb)
+* [othneildrew](https://github.com/othneildrew/Best-README-Template) - ReadMe - Template
+* [lukepolson](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid4.ipynb) - Pendulum - Sympy
 
 
 
