@@ -25,20 +25,14 @@
 <!-- Clone the repo `git clone https://github.com/your_username_/Project-Name.git` to get started. -->
 
 ## Roadmap
-:heavy_check_mark: ReadMe anlegen
+- :heavy_check_mark: ReadMe anlegen
+- :heavy_check_mark: Roadmap erstellen
+- :soon: Pendulum
+  - Herleitung der Bewegungsgleichung 
+        - Newton
+        - Lagrange
+        - Kane 
 
-:heavy_check_mark: Roadmap erstellen
-
-:soon: Pendulum
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [] Add Additional Templates w/ Examples
-- [] Add "components" document to easily copy & paste sections of the readme
-- [] Multi-language Support
-    - [] Chinese
-    - [] Spanish
-    - test
 
 ## Contact
 _Lennart Fuhrig_ - [GitHub](https://github.com/lennart2810) 
