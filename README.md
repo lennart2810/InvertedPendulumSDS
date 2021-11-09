@@ -3,7 +3,6 @@
 
 ## About The Project
 <div align="center">
-  <h3>Bild</h3>
   <a href="https://github.com/lennart2810/SDS_Projektarbeit/blob/master/appendix">
     <img src="appendix/screenshot.png" alt="Images" width="500" height="500">
   </a>
