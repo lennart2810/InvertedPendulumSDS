@@ -30,22 +30,14 @@
 -->
 
 
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  
   <a href="https://github.com/lennart2810/SDS_Projektarbeit/blob/master/appendix">
     <img src="appendix/screenshot.png" alt="Images" width="200" height="200">
   </a>
-
-
-  
 </div>
-
 
 
 ### Built With
@@ -54,17 +46,20 @@
 * JupyterNotebooks
 
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
+   
+   
+Clone the repo ``git clone https://github.com/your_username_/Project-Name.git`` to get started.
+
+Clone the repo `git clone https://github.com/your_username_/Project-Name.git` to get started.
 
 
 
