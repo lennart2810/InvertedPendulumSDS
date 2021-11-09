@@ -1,5 +1,6 @@
 # SDS_Projektarbeit
 <div id="top"></div>
+<br />
 
 
 ## About The Project
@@ -16,12 +17,14 @@
 
 <!-- Überschrift mittig ausrichten -->
 <!-- <h3 align="center">Überschrift</h3> -->
+<br />
 
 
 ### Built With
 
 * [Python](https://www.python.org)
 * [JupyterNotebook ](https://www.anaconda.com/products/individual#Downloads)
+* <br />
 
 
 ## Installation
@@ -33,6 +36,7 @@
 
 <!-- inline code -->
 <!-- Clone the repo `git clone https://github.com/your_username_/Project-Name.git` to get started. -->
+<br />
 
 
 ## Roadmap
@@ -42,17 +46,19 @@
 :heavy_check_mark: Roadmap erstellen
 
 :soon: Pendulum
-
+<br />
 
 ## Contact
 
 _Lennart Fuhrig_ - [GitHub](https://github.com/lennart2810) 
+<br />
 
 
 ## Acknowledgments
 
 Credits to:
 * [ReadMe-Template](https://github.com/othneildrew/Best-README-Template)
+<br />
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
