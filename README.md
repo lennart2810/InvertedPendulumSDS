@@ -1,4 +1,3 @@
-# SDS_Projektarbeit
 <div id="top"></div>
 
 ## About The Project
