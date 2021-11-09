@@ -51,20 +51,12 @@
 ### Installation
 
 
-1. Clone the repo
+* Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-   
-   
-Clone the repo ``git clone https://github.com/your_username_/Project-Name.git`` to get started.
 
-Clone the repo `git clone https://github.com/your_username_/Project-Name.git` to get started.
-
-
-
-_einfacher Link [press Me!](https://example.com)_
-
+* Clone the repo `git clone https://github.com/your_username_/Project-Name.git` to get started.
 
 
 <!-- ROADMAP -->
@@ -75,21 +67,12 @@ _einfacher Link [press Me!](https://example.com)_
 :heavy_check_mark: Roadmap erstellen
 
 :soon: Pendulum
-* Bewegungsgleichung
-** Newton
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-
-
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+_Lennart Fuhrig_ - [GitHub](Clone the repo `git clone https://github.com/your_username_/Project-Name.git) 
 
 
 
