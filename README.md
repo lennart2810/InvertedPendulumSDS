@@ -225,7 +225,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [ReadMe-Template]: https://github.com/othneildrew/Best-README-Template
+* [ReadMe-Template](https://github.com/othneildrew/Best-README-Template)
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
