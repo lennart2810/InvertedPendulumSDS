@@ -38,5 +38,8 @@ _Lennart Fuhrig_ - [GitHub](https://github.com/lennart2810)
 
 Credits to:
 * [ReadMe-Template](https://github.com/othneildrew/Best-README-Template)
+* [Luke Polson](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid4.ipynb)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<p align="right"><a href="#top">back to top</a></p>
