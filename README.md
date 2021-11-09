@@ -29,9 +29,14 @@
 - :heavy_check_mark: Roadmap erstellen
 - :soon: Pendulum
   - Herleitung der Bewegungsgleichung 
-        - Newton
-        - Lagrange
-        - Kane 
+   - Newton
+    - Lagrange
+     - Kane 
+
+- [.x] Readme anlegen
+- [.x] Erste Formatierungen lernen
+- [.] Readme vervollständigen
+- [.] Readme veröffentlichen
 
 
 ## Contact
