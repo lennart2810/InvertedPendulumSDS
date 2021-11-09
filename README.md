@@ -75,9 +75,9 @@ _einfacher Link [press Me!](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-[x] Add Changelog
-[x] Add back to top links
-:soon: Add Additional Templates w/ Examples
+* :heavy_check_mark: Add Changelog
+- :heavy_check_mark:Add back to top links
+1. :soon: Add Additional Templates w/ Examples
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
