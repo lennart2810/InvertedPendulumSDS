@@ -32,22 +32,17 @@
 - :soon: Herleitung der Bewegungsgleichung 
   - Newton
   - Lagrange
-  -Kane 
+  - Kane 
 - :soon: Implementierung in Python 
   - numerische Berechnung der Bewegung
   - animierte Ergebnisdarstellung
 
-
-
-## Contact
-_Lennart Fuhrig_ - [GitHub](https://github.com/lennart2810) 
-
 ## Acknowledgments
-
 Credits to:
 * ReadMe - Template - [othneildrew](https://github.com/othneildrew/Best-README-Template)
 * Pendulum - Sympy - [lukepolson](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid4.ipynb)
 
-
+## Contact
+_Lennart Fuhrig_ - [GitHub](https://github.com/lennart2810) 
 
 <p align="right"><a href="#top">back to top</a></p>
