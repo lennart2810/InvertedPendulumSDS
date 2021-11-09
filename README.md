@@ -33,9 +33,9 @@
     - Lagrange
      - Kane 
 
-- [.x] Readme anlegen
+- [x] Readme anlegen
 - [.x] Erste Formatierungen lernen
-- [.] Readme vervollständigen
+- [] Readme vervollständigen
 - [.] Readme veröffentlichen
 
 
