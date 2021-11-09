@@ -11,16 +11,17 @@
     <img src="appendix/screenshot.png" alt="Images" width="200" height="200">
   </a>
   
-  <h3 align="center">Best-README-Template</h3>
-  
 </div>
 
 <h3 align="center">Best-README-Template</h3>
 
 
 ### Built With
+<br />
+<br />
 
 * [Python](https://www.python.org)
+* <br />
 * JupyterNotebooks
 
 
