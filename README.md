@@ -27,17 +27,16 @@
 ## Roadmap
 - :heavy_check_mark: ReadMe anlegen
 - :heavy_check_mark: Roadmap erstellen
-- :soon: Pendulum
-  - Herleitung der Bewegungsgleichung 
-   - Newton
-    - Lagrange
-     - Kane 
 
-Programmaufruf | Funktion
--------------- | --------
-foobar -v | Erweiterte Informationen
-foobar -t | Programm nur testen
-foobar -vt | Programm mit allen Optionen ausführen
+### Pendel
+- :soon: Herleitung der Bewegungsgleichung 
+  - Newton
+  - Lagrange
+  -Kane 
+- :soon: Implementierung in Python 
+  - numerische Berechnung der Bewegung
+  - animierte Ergebnisdarstellung
+
 
 
 ## Contact
