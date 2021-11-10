@@ -14,11 +14,17 @@
 * [Python](https://www.python.org)
 * [JupyterNotebook ](https://www.anaconda.com/products/individual#Downloads)
 
-## Installation
-Clone the Repository to get started: 
+## Clone Repository
    ```sh
    git clone https://github.com/lennart2810/SDS_Projektarbeit.git
    ```
+
+### Dependencies 
+* sympy
+* scipy
+* matplotlib
+* numpy
+* ...
 
 <!-- inline code -->
 <!-- Clone the repo `git clone https://github.com/lennart2810/SDS_Projektarbeit.git` to get started. -->
