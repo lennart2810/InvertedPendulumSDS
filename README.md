@@ -17,7 +17,7 @@
 ## Installation
 * Clone the repo to get started.
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/lennart2810/SDS_Projektarbeit.git
    ```
 
 <!-- inline code -->
