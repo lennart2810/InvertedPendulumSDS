@@ -15,7 +15,7 @@
 * [JupyterNotebook ](https://www.anaconda.com/products/individual#Downloads)
 
 ## Installation
-Clone the repo to get started.
+Clone the Repository to get started: 
    ```sh
    git clone https://github.com/lennart2810/SDS_Projektarbeit.git
    ```
