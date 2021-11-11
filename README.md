@@ -34,19 +34,14 @@
 ## Roadmap
 - :heavy_check_mark: ReadMe anlegen
 - :heavy_check_mark: Roadmap erstellen
-
-## Pendel
-- :soon: Herleitung der Bewegungsgleichung 
+- 
+- - :soon: Herleitung der Bewegungsgleichung 
   - Newton
   - Lagrange
   - Kane 
-- :soon: Implementierung in Python 
-  - numerische Berechnung der Bewegung
-  - animierte Ergebnisdarstellung
 
+## Pendel
 ![Alt Text](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
-
-![](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
 
 ## Acknowledgments
 Credits to:
