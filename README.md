@@ -41,13 +41,12 @@
   - Kane 
 
 ## Pendel
+
 ![Alt Text](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
 
-<div align="center">
-  <a href="https://realpython.com/simpy-simulating-with-python/">
-    <img src="appendix/SimPy.jpg" alt="Images" width="500" height="300">
-  </a>
-</div>
+<p align="center">
+![Demo](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
+</p>
 
 
 
