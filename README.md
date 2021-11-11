@@ -46,7 +46,7 @@
 
 
 <p align="center">
-  <img src="demo.gif" alt="animated" />
+  <img src="https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif" alt="animated" />
 </p>
 
 
