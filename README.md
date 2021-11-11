@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
 
 ## About The Project
 <div align="center">
