@@ -1,5 +1,7 @@
 <div id="top"></div>
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ## About The Project
 <div align="center">
   <a href="https://realpython.com/simpy-simulating-with-python/">
