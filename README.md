@@ -41,7 +41,6 @@
   - Kane 
 
 ## Pendel
-<div align="center">
 ![Alt Text](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
 
 <div align="center">
