@@ -46,7 +46,7 @@
 
 ![Alt Text](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
 
-![test](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
+![](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
 
 ## Acknowledgments
 Credits to:
