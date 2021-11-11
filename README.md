@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-![Alt Text](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
+
 
 ## About The Project
 <div align="center">
@@ -35,7 +35,7 @@
 - :heavy_check_mark: ReadMe anlegen
 - :heavy_check_mark: Roadmap erstellen
 
-### Pendel
+## Pendel
 - :soon: Herleitung der Bewegungsgleichung 
   - Newton
   - Lagrange
@@ -43,6 +43,10 @@
 - :soon: Implementierung in Python 
   - numerische Berechnung der Bewegung
   - animierte Ergebnisdarstellung
+
+![Alt Text](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
+
+![test](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
 
 ## Acknowledgments
 Credits to:
