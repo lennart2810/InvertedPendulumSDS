@@ -44,11 +44,10 @@
 
 ![Alt Text](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
 
+
 <p align="center">
-![Demo](https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif)
+  <img src="demo.gif" alt="animated" />
 </p>
-
-
 
 
 ## Acknowledgments
