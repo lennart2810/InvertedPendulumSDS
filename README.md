@@ -3,7 +3,7 @@
 ## About The Project
 <div align="center">
   <a href="https://realpython.com/simpy-simulating-with-python/">
-    <img src="appendix/SimPy.jpg" alt="Images" width="500" height="500">
+    <img src="appendix/SimPy.jpg" alt="Images" width="500" height="200">
   </a>
 </div>
 
