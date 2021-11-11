@@ -2,8 +2,8 @@
 
 ## About The Project
 <div align="center">
-  <a href="https://github.com/lennart2810/SDS_Projektarbeit/blob/master/appendix">
-    <img src="appendix/screenshot.png" alt="Images" width="500" height="500">
+  <a href="https://realpython.com/simpy-simulating-with-python/">
+    <img src="appendix/SimPy.jpg" alt="Images" width="500" height="500">
   </a>
 </div>
 
