@@ -49,6 +49,7 @@
 Credits to:
 * ReadMe - Template - [othneildrew](https://github.com/othneildrew/Best-README-Template)
 * Pendulum - Sympy - [lukepolson](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid4.ipynb)
+* Inverted Pendulum - [zjor](https://github.com/zjor/inverted-pendulum/tree/master/pythonm)
 
 ## Contact
 _Lennart Fuhrig_ - [GitHub](https://github.com/lennart2810) 
