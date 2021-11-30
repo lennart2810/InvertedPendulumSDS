@@ -9,20 +9,24 @@
 </div>
 <h4 align="center"> WS21/22 - Prof. Kerstiens </h4>
 <h2 align="center"> Inverted Pendulum </h2>
+<br>
 
 # Multibody Simulation
 ## Pendulum
 ## InvertedPendulum
+<br>
 
 
 # Physics Informed Neural Networks
 ## Pendulum
 ## InvertedPendulum
+<br>
 
 
 # Reinforcement Learning
 ## Pendulum
 ## InvertedPendulum
+<br>
 
 <!-- gif -->
 <!-- 
