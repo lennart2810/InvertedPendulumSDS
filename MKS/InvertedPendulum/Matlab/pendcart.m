@@ -1,3 +1,5 @@
+% Data-Driven Science and Engineering - Steven L. Brunton, J. Nathan Kutz
+
 function dx = pendcart(x,m,M,L,g,d,u)
 
 Sx = sin(x(3));
