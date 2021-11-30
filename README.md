@@ -4,9 +4,20 @@
 <h4 align="center"> WS21/22 - Prof. Kerstiens </h4>
 <h2 align="center"> Inverted Pendulum </h2>
 
-### MKS
+# MKS
+## Pendulum
+## InvertedPendulum
 
-### PINN
+
+# PINN
+## Pendulum
+## InvertedPendulum
+
+
+# RL 
+### optinal noch OpenAI Gym anwenden
+## Pendulum
+## InvertedPendulum
 
 <!-- gif -->
 <!-- 
@@ -15,10 +26,10 @@
   </p> 
 -->
 
-## About The Project
+# About The Project
 <div align="center">
   <a href="https://realpython.com/simpy-simulating-with-python/">
-    <img src="appendix/SimPy.jpg" alt="Images" width="500" height="300">
+    <img src="https://www.w-hs.de/typo3conf/ext/whs/Resources/Public/Images/Pagelayout/w-hs_pagelogo.png" alt="Images" width="500" height="300">
   </a>
 </div>
 
