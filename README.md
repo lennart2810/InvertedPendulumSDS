@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 # Sondergebiete der Simulation
-## Inverted Pendulum
+### Inverted Pendulum
 
 ## About The Project
 <div align="center">
