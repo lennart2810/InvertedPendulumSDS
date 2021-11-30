@@ -1,21 +1,26 @@
 <div id="top"></div>
 
 <h1 align="center"> Sondergebiete der Simulation </h1>
+<div align="center">
+  <a href="https://www.w-hs.de">
+    <img src="https://www.w-hs.de/typo3conf/ext/whs/Resources/Public/Images/Pagelayout/w-hs_pagelogo.png" 
+    alt="Images" width="350" height="100">
+  </a>
+</div>
 <h4 align="center"> WS21/22 - Prof. Kerstiens </h4>
 <h2 align="center"> Inverted Pendulum </h2>
 
-# MKS
+# Multibody Simulation
 ## Pendulum
 ## InvertedPendulum
 
 
-# PINN
+# Physics Informed Neural Networks
 ## Pendulum
 ## InvertedPendulum
 
 
-# RL 
-### optinal noch OpenAI Gym anwenden
+# Reinforcement Learning
 ## Pendulum
 ## InvertedPendulum
 
@@ -27,12 +32,6 @@
 -->
 
 # About The Project
-<div align="center">
-  <a href="https://www.w-hs.de">
-    <img src="https://www.w-hs.de/typo3conf/ext/whs/Resources/Public/Images/Pagelayout/w-hs_pagelogo.png" 
-    alt="Images" width="350" height="100">
-  </a>
-</div>
 
 <!-- Überschrift mittig ausrichten -->
 <!-- <h3 align="center">Überschrift</h3> -->
