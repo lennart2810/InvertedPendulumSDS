@@ -8,7 +8,7 @@
   </a>
 </div>
 <h4 align="center"> WS21/22 - Prof. Kerstiens </h4>
-<h2 align="center"> Inverted Pendulum </h2>
+<br>
 <br>
 
 # Multibody Simulation
