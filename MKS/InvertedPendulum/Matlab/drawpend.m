@@ -1,3 +1,5 @@
+% Data-Driven Science and Engineering - Steven L. Brunton, J. Nathan Kutz
+
 function drawpend(state,m,M,L)
 x = state(1);
 th = state(3);
