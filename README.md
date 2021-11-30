@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h1 align="center"> Sondergebiete der Simulation </h1>
+<h1 align="center"> Sondergebiete der Simulation <br> Inverted Pendulum </h1>
 <div align="center">
   <a href="https://www.w-hs.de">
     <img src="https://www.w-hs.de/typo3conf/ext/whs/Resources/Public/Images/Pagelayout/w-hs_pagelogo.png" 
