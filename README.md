@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h1 align="center"> <b>Sondergebiete der Simulation</b> <br> Inverted Pendulum </h1>
+<h1 align="center"> Sondergebiete der Simulation <br> Inverted Pendulum </h1>
 <div align="center">
   <a href="https://www.w-hs.de">
     <img src="https://www.w-hs.de/typo3conf/ext/whs/Resources/Public/Images/Pagelayout/w-hs_pagelogo.png" 
@@ -13,6 +13,13 @@
 
 # _Multibody_ Simulation
 ## Pendulum
+* [free-pendulum.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-pendulum.py)
+* [simple_pendulum.py](https://github.com/apf99/Simple-Pendulum-Model/blob/master/simple_pendulum.py)
+* https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html
+
+
+
+
 ## InvertedPendulum
 <br>
 
@@ -58,8 +65,11 @@
 ## Acknowledgments
 Credits to:
 * ReadMe - Template - [othneildrew](https://github.com/othneildrew/Best-README-Template)
-* Pendulum - Sympy - [lukepolson](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid4.ipynb)
-* Inverted Pendulum - [zjor](https://github.com/zjor/inverted-pendulum/tree/master/python)
+* [lukepolson](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid4.ipynb)
+* [zjor](https://github.com/zjor/inverted-pendulum)
+* [apf99](https://github.com/apf99/Simple-Pendulum-Model)
+* [Brunton and Kutz](http://databookuw.com)
+
 
 ## Clone Repository
    ```sh
