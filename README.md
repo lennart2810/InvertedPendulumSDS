@@ -1,6 +1,8 @@
 <div id="top"></div>
 
-<h3 align="center">Sondergebiete der Simulation</h3>
+<h1 align="center"> Sondergebiete der Simulation </h1>
+<h3 align="center"> WS21/22 - Prof. Kerstiens </h3>
+<h2 align="center"> Inverted Pendulum </h2>
 # Sondergebiete der Simulation - Inverted Pendulum
 
 ## About The Project
