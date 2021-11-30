@@ -15,12 +15,10 @@
 ## Pendulum
 * [free-pendulum.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-pendulum.py)
 * [simple_pendulum.py](https://github.com/apf99/Simple-Pendulum-Model/blob/master/simple_pendulum.py)
-* https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html
-
-
-
+* [scipy.integrate.odeint example](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)
 
 ## InvertedPendulum
+* [free-cart.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-cart.py)
 <br>
 
 
@@ -63,12 +61,19 @@
 
 
 ## Acknowledgments
-Credits to:
-* ReadMe - Template - [othneildrew](https://github.com/othneildrew/Best-README-Template)
+### Code 
+* [othneildrew](https://github.com/othneildrew/Best-README-Template)
 * [lukepolson](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid4.ipynb)
 * [zjor](https://github.com/zjor/inverted-pendulum)
 * [apf99](https://github.com/apf99/Simple-Pendulum-Model)
 * [Brunton and Kutz](http://databookuw.com)
+* [Ben Moseley](https://github.com/benmoseley/harmonic-oscillator-pinn)
+
+### Literature
+* [Hamiltonian Neural Networks](https://paperswithcode.com/paper/hamiltonian-neural-networks) --> Code auch noch
+* [Ben Moseley](https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/)
+
+
 
 
 ## Clone Repository
