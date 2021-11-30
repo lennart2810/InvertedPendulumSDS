@@ -4,6 +4,17 @@
 <h4 align="center"> WS21/22 - Prof. Kerstiens </h4>
 <h2 align="center"> Inverted Pendulum </h2>
 
+### MKS
+
+### PINN
+
+<!-- gif -->
+<!-- 
+  <p align="center">
+  <img src="https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif" alt="animated" />
+  </p> 
+-->
+
 ## About The Project
 <div align="center">
   <a href="https://realpython.com/simpy-simulating-with-python/">
@@ -14,45 +25,34 @@
 <!-- Überschrift mittig ausrichten -->
 <!-- <h3 align="center">Überschrift</h3> -->
 
-### Built With
+
+## Built With
 * [Python](https://www.python.org)
-* [JupyterNotebook ](https://www.anaconda.com/products/individual#Downloads)
+* [JupyterNotebook](https://www.anaconda.com/products/individual#Downloads)
+* [Siemens NX]()
+* ...
 
-## Clone Repository
-   ```sh
-   git clone https://github.com/lennart2810/SDS_Projektarbeit.git
-   ```
-
-### Dependencies 
+## Dependencies 
 * sympy
 * scipy
 * matplotlib
 * numpy
 * ...
 
-<!-- inline code -->
-<!-- Clone the repo `git clone https://github.com/lennart2810/SDS_Projektarbeit.git` to get started. -->
-
-## Roadmap
-- :heavy_check_mark: ReadMe anlegen
-- :heavy_check_mark: Roadmap erstellen
-- 
-- - :soon: Herleitung der Bewegungsgleichung 
-  - Newton
-  - Lagrange
-  - Kane 
-
-## Pendel
-<p align="center">
-  <img src="https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif" alt="animated" />
-</p>
-
 
 ## Acknowledgments
 Credits to:
 * ReadMe - Template - [othneildrew](https://github.com/othneildrew/Best-README-Template)
 * Pendulum - Sympy - [lukepolson](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid4.ipynb)
-* Inverted Pendulum - [zjor](https://github.com/zjor/inverted-pendulum/tree/master/pythonm)
+* Inverted Pendulum - [zjor](https://github.com/zjor/inverted-pendulum/tree/master/python)
+
+## Clone Repository
+   ```sh
+   git clone https://github.com/lennart2810/SDS_Projektarbeit.git
+   ```
+
+<!-- inline code -->
+<!-- Clone the repo `git clone https://github.com/lennart2810/SDS_Projektarbeit.git` to get started. -->
 
 ## Contact
 _Lennart Fuhrig_ - [GitHub](https://github.com/lennart2810) 
