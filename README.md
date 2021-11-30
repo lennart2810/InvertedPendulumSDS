@@ -3,6 +3,7 @@
 <h1 align="center"> Sondergebiete der Simulation </h1>
 <h4 align="center"> WS21/22 - Prof. Kerstiens </h4>
 <h2 align="center"> Inverted Pendulum </h2>
+< align="center"> Inverted Pendulum </>
 # Sondergebiete der Simulation - Inverted Pendulum
 
 ## About The Project
