@@ -1,3 +1,5 @@
+% Data-Driven Science and Engineering - Steven L. Brunton, J. Nathan Kutz
+
 clear all, close all, clc
 
 m = 1;
