@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h1 align="center"> Sondergebiete der Simulation <br> Inverted Pendulum </h1>
+<h1 align="center"> __Sondergebiete der Simulation__ <br> Inverted Pendulum </h1>
 <div align="center">
   <a href="https://www.w-hs.de">
     <img src="https://www.w-hs.de/typo3conf/ext/whs/Resources/Public/Images/Pagelayout/w-hs_pagelogo.png" 
@@ -11,7 +11,7 @@
 <br>
 <br>
 
-# Multibody Simulation
+# _Multibody_ Simulation
 ## Pendulum
 ## InvertedPendulum
 <br>
@@ -63,7 +63,7 @@ Credits to:
 
 ## Clone Repository
    ```sh
-   git clone https://github.com/lennart2810/SDS_Projektarbeit.git
+   git clone https://github.com/lennart2810/InvertedPendulum.git
    ```
 
 <!-- inline code -->
