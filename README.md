@@ -17,6 +17,10 @@
 * [scipy.integrate.odeint example](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)
 <!-- [simple_pendulum.py](https://github.com/apf99/Simple-Pendulum-Model/blob/master/simple_pendulum.py) -->
 
+<p align="center">
+  <img src="https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif" alt="animated" />
+</p> 
+
 ## InvertedPendulum
 * [free-cart.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-cart.py)
 <br>
