@@ -18,13 +18,13 @@
 <!-- [simple_pendulum.py](https://github.com/apf99/Simple-Pendulum-Model/blob/master/simple_pendulum.py) -->
 
 <div align="center">
-    <img src="https://github.com/lennart2810/InvertedPendulum/tree/master/MKS/Pendulum/Python/pendulum.png" 
+    <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.png" 
     alt="Images" width="500" height="300">
   </a>
 </div>
 
 <p align="center">
-  <img src="https://github.com/lennart2810/InvertedPendulum/tree/master/MKS/Pendulum/Python/pendulum.gif" alt="animated" />
+  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.gif" alt="animated" />
 </p> 
 
 ## InvertedPendulum
