@@ -9,7 +9,6 @@
 </div>
 <h4 align="center"> WS21/22 - Prof. Kerstiens </h4>
 <br>
-<br>
 
 # _Multibody_ Simulation
 ## Pendulum
