@@ -15,7 +15,7 @@
 
 <div align="center">
     <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.png" 
-    alt="Images" width="500" height="300">
+    alt="Images" width="600" height="360">
   </a>
 </div>
 
