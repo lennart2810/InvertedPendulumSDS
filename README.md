@@ -13,15 +13,20 @@
 # _Multibody_ Simulation
 ## Pendulum
 
+<!-- 
+ 
 <div align="center">
     <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.png" 
     alt="Images" width="600" height="360">
   </a>
 </div>
 
+-->
+
+
 <p align="center">
   <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.gif" 
-  alt="animated"  width="800" height="250" />
+  alt="animated"  width="1000" height="312" />
 </p> 
 
 #### Credits:
@@ -47,9 +52,6 @@
 -->
 
 # About The Project
-
-<!-- Überschrift mittig ausrichten -->
-<!-- <h3 align="center">Überschrift</h3> -->
 
 
 ## Built With
