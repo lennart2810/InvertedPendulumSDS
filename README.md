@@ -38,6 +38,7 @@
 * [free-cart.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-cart.py)
 <br>
 
+### 1 Degree of Freedom 
 
 # Physics Informed Neural Networks
 ## Pendulum
