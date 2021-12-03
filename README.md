@@ -13,6 +13,8 @@
 # _Multibody_ Simulation
 ## Pendulum
 
+$ \ddot \theta = 0$
+
 <!-- 
  
 <div align="center">
