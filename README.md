@@ -39,6 +39,8 @@
 ### 1 Degree of Freedom (torque control)
   
 ### 2 Degrees of Freedom (cart ploe)
+  
+#### Credits:
 * [free-cart.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-cart.py)
   
 <br>
