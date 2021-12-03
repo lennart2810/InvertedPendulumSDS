@@ -85,11 +85,9 @@
 <!-- [apf99](https://github.com/apf99/Simple-Pendulum-Model) -->
 
 ### Literature
-* [Hamiltonian Neural Networks](https://paperswithcode.com/paper/hamiltonian-neural-networks) --> Code auch noch
 * [Ben Moseley](https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/)
-
-
-
+  
+<!-- * [Hamiltonian Neural Networks](https://paperswithcode.com/paper/hamiltonian-neural-networks) --> Code auch noch -->
 
 ## Clone Repository
    ```sh
