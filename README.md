@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.gif" 
-  alt="animated"  width="1000" height="400" />
+  alt="animated"  width="600" height="187" />
 </p> 
 
 #### Credits:
