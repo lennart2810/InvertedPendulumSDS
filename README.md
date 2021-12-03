@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <a href="https://www.w-hs.de">
+  <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/Pendulum.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.gif" 
   alt="animated"  width="1000" height="312" />
 </p> 
