@@ -35,10 +35,15 @@
 * [scipy.integrate.odeint example](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)
 
 ## InvertedPendulum
+  
+### 1 Degree of Freedom (torque control)
+  
+### 2 Degree of Freedom (cart ploe)
 * [free-cart.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-cart.py)
+  
 <br>
 
-### 1 Degree of Freedom 
+
 
 # Physics Informed Neural Networks
 ## Pendulum
