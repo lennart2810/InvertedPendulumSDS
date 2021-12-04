@@ -36,7 +36,7 @@
 
 ## InvertedPendulum
   
-### 1 Degree of Freedom (torque control)
+### 1 Degree of Freedom
 
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/InvertedPendulum/1DOF/Matlab/inverted_pendulum_data.m">
@@ -44,7 +44,7 @@
   alt="animated"  width="320" height="300" />
 </p> 
   
-### 2 Degrees of Freedom (cart ploe)
+### 2 DOF
   
 #### Credits:
 * [free-cart.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-cart.py)
