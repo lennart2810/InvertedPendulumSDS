@@ -41,7 +41,7 @@
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/InvertedPendulum/1DOF/Matlab/inverted_pendulum_data.m">
   <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/InvertedPendulum/1DOF/Matlab/InvertedPendulum1DOF.gif" 
-  alt="animated"  width="300" height="320" />
+  alt="animated"  width="320" height="300" />
 </p> 
   
 ### 2 Degrees of Freedom (cart ploe)
