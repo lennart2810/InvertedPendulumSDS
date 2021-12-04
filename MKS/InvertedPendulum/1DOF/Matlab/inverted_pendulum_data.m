@@ -1,5 +1,4 @@
-% Animation Source:
-% https://www.youtube.com/watch?v=ULyHgWK4IJw
+% Animation: https://www.youtube.com/watch?v=ULyHgWK4IJw
 
 %% init
 
@@ -20,8 +19,8 @@ ki = 3;                 % 3
 kd = 5;                 % 5
 
 % Simulationsdaten
-sim_time = 15;          % s 
-solver_time = 0.1;      % s
+sim_time = 10;          % s 
+solver_time = 0.05;      % s
 
 
 %% animate
@@ -29,35 +28,35 @@ solver_time = 0.1;      % s
 % Simulink - Modell ausführen und Outputs speichern
 open("inverted_pendulum.slx")
 data = sim("inverted_pendulum.slx", sim_time);
+frames = length(data.theta);
 
 % Video vorbereiten
 avi=VideoWriter('InvertedPendulum1DOF.avi');
-avi.FrameRate = 60;
+avi.FrameRate = 20;
 open(avi);
 
 % Plot anpassen
-lp = l * 1.2; 
-%xlim([-lp lp]);
-%ylim([-lp lp]);
+title('Torque Controlled Inverted Pendulum','FontSize',14);
+set(gcf,'color','white')
+lp = l * 1.8;
 axis off;
-title('Torque Controlled Inverted Pendulum');
 
-frames = length(data.theta);
 for n=1:frames
 
     hold on;
     
     % Plot "übermalen"
-    fill([-lp lp lp -lp],[-lp -lp lp lp],'w'); % clears background
+    fill([-lp lp lp -lp],[-lp -lp lp lp],'w');
 
     % Pendelstab, vom Ursprung zur Pendelmasse
-    plot([0 l*sin(data.theta(n,:))],[0 -l*cos(data.theta(n,:))],'k','LineWidth',3); % plots rod
+    plot([0 l*sin(data.theta(n))],[0 -l*cos(data.theta(n))],'k','LineWidth',3);
 
     % Pendelmasse
-    plot(l*sin(data.theta(n,:)),-l*cos(data.theta(n,:)),'Marker','o','MarkerSize',20,'MarkerFaceColor','r','MarkerEdgeColor','r'); % plots bob 
+    plot(l*sin(data.theta(n)),-l*cos(data.theta(n)),'Marker','o','MarkerSize',20,'MarkerFaceColor','r','MarkerEdgeColor','r'); % plots bob 
     
-    txt = ['time: ' num2str(n*solver_time-solver_time) ' s'];
-    text(-1.1,1.1,txt);
+    % Zeitlabel
+    txt = ['time: ' num2str(round(n*solver_time-solver_time),2) ' s'];
+    text(-1.6,1.5,txt,'FontSize',14);
 
     % aktuelles Figure übernehmen   
     frame=getframe(gcf);
