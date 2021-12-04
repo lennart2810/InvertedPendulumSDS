@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/Pendulum.ipynb">
-  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.gif" 
+  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/InvertedPendulum/1DOF/Matlab/InvertedPendulum1DOF.gif" 
   alt="animated"  width="1000" height="295" />
 </p> 
   
