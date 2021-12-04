@@ -6,7 +6,7 @@ l=2; % pendulum rod length
 g=9.81; % acceleration due to gravity
 t=10; % simulation time
 c=0.25; % damping coefficient
-tStep=0.1; % simulation time step
+tStep=0.01; % simulation time step
 iterations=t/tStep; % total number of iterations
 % pre-allocation of variables for speed
 theta=zeros(iterations,1);
