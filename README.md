@@ -34,17 +34,17 @@
 * [free-pendulum.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-pendulum.py)
 * [scipy.integrate.odeint example](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)
 
-## InvertedPendulum
+## Inverted Pendulum
   
-### 1 Degree of Freedom (torque control)
+### 1 Degree of Freedom
 
 <p align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/Pendulum.ipynb">
-  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.gif" 
-  alt="animated"  width="1000" height="295" />
+  <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/InvertedPendulum/1DOF/Matlab/inverted_pendulum_data.m">
+  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/InvertedPendulum/1DOF/Matlab/InvertedPendulum1DOF.gif" 
+  alt="animated"  width="320" height="300" />
 </p> 
   
-### 2 Degrees of Freedom (cart ploe)
+### 2 DOF
   
 #### Credits:
 * [free-cart.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-cart.py)
@@ -55,7 +55,7 @@
 
 # Physics Informed Neural Networks
 ## Pendulum
-## InvertedPendulum
+## Inverted Pendulum
 <br>
 
 
