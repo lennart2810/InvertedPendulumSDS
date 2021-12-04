@@ -27,21 +27,35 @@
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/Pendulum.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.gif" 
-  alt="animated"  width="1000" height="300" />
+  alt="animated"  width="1000" height="295" />
 </p> 
 
 #### Credits:
 * [free-pendulum.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-pendulum.py)
 * [scipy.integrate.odeint example](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)
 
-## InvertedPendulum
+## Inverted Pendulum
+  
+### 1 Degree of Freedom
+
+<p align="center">
+  <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/InvertedPendulum/1DOF/Matlab/inverted_pendulum_data.m">
+  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/InvertedPendulum/1DOF/Matlab/InvertedPendulum1DOF.gif" 
+  alt="animated"  width="420" height="400" />
+</p> 
+  
+### 2 DOF
+  
+#### Credits:
 * [free-cart.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-cart.py)
+  
 <br>
+
 
 
 # Physics Informed Neural Networks
 ## Pendulum
-## InvertedPendulum
+## Inverted Pendulum
 <br>
 
 
@@ -79,11 +93,9 @@
 <!-- [apf99](https://github.com/apf99/Simple-Pendulum-Model) -->
 
 ### Literature
-* [Hamiltonian Neural Networks](https://paperswithcode.com/paper/hamiltonian-neural-networks) --> Code auch noch
 * [Ben Moseley](https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/)
-
-
-
+  
+<!-- * [Hamiltonian Neural Networks](https://paperswithcode.com/paper/hamiltonian-neural-networks) --> Code auch noch -->
 
 ## Clone Repository
    ```sh
