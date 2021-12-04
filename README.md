@@ -34,7 +34,7 @@
 * [free-pendulum.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-pendulum.py)
 * [scipy.integrate.odeint example](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)
 
-## InvertedPendulum
+## Inverted Pendulum
   
 ### 1 Degree of Freedom
 
@@ -55,7 +55,7 @@
 
 # Physics Informed Neural Networks
 ## Pendulum
-## InvertedPendulum
+## Inverted Pendulum
 <br>
 
 
