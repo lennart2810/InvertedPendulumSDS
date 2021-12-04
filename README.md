@@ -39,9 +39,9 @@
 ### 1 Degree of Freedom (torque control)
 
 <p align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/Pendulum.ipynb">
+  <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/InvertedPendulum/1DOF/Matlab/inverted_pendulum_data.m">
   <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/InvertedPendulum/1DOF/Matlab/InvertedPendulum1DOF.gif" 
-  alt="animated"  width="1000" height="295" />
+  alt="animated"  width="500" height="500" />
 </p> 
   
 ### 2 Degrees of Freedom (cart ploe)
