@@ -59,9 +59,9 @@
 ### NN
   
 <p align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/Pendulum.ipynb">
+  <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/Pendulum%20PINN.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/pendulum_nn.gif" 
-  alt="animated"  width="1000" height="500" />
+  alt="animated"  width="800" height="350" />
 </p> 
 
 #### PINN
