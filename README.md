@@ -1,14 +1,6 @@
 <div id="top"></div>
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
-
-This math is inline $`a^2+b^2=c^2`$.
-
-This is on a separate line
-
-```math
-a^2+b^2=c^2
-```
+![\Large \ddot\theta=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 
 <h1 align="center"> Sondergebiete der Simulation <br> Inverted Pendulum </h1>
 <div align="center">
