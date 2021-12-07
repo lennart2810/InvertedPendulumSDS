@@ -61,7 +61,7 @@
   </p>   
   
 #### Credits:
-* [free-pendulum.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-pendulum.py)
+* [free-pendulum.py](https://github.com/benmoseley/harmonic-oscillator-pinn/blob/main/Harmonic%20oscillator%20PINN.ipynb)
 
 ## Inverted Pendulum
 <br>
