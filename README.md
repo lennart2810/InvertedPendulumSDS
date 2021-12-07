@@ -15,17 +15,6 @@
 # _Multibody_ Simulation
 ## Pendulum
 
-<!-- 
- 
-<div align="center">
-    <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.png" 
-    alt="Images" width="600" height="360">
-  </a>
-</div>
-
--->
-
-
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/Pendulum.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.gif" 
