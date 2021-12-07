@@ -1,17 +1,5 @@
 <div id="top"></div>
 
-
-<div align="center">
-  <a href="https://www.w-hs.de">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}"
-    alt="Images" width="350" height="100">
-  </a>
-</div>
-
-
-
-
-
 <h1 align="center"> Sondergebiete der Simulation <br> Inverted Pendulum </h1>
 <div align="center">
   <a href="https://www.w-hs.de">
@@ -21,6 +9,8 @@
 </div>
 <h4 align="center"> WS21/22 - Prof. Kerstiens </h4>
 <br>
+
+<!--  
 
 # _Multibody_ Simulation
 ## Pendulum
@@ -63,9 +53,16 @@
   
 <br>
 
-
+--> 
 
 # Physics Informed Neural Networks
+  
+<div align="center">
+  <a href="https://www.w-hs.de">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" alt="Images" width="350" height="100">
+  </a>
+</div>
+
 ## Pendulum
   
 ### NN
