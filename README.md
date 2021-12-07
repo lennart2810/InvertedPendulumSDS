@@ -48,7 +48,9 @@
   
 <div align="center">
   <a href="https://www.w-hs.de">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" alt="Images" width="350" height="100">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;
+              (m_c + m_p) \ddot x - m l \ddot \theta \cos(\theta) + m l \dot \theta^2 sin(\theta) = F" 
+    alt="Images" width="350" height="100">
   </a>
 </div>
 
