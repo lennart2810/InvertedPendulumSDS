@@ -70,8 +70,6 @@
   alt="animated"  width="800" height="320" />
 </p> 
   
-  https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/pendulum_pinn.gif
-  
 
 #### Credits:
 * [Harmonic oscillator PINN.ipynb](https://github.com/benmoseley/harmonic-oscillator-pinn/blob/main/Harmonic%20oscillator%20PINN.ipynb) <br>
