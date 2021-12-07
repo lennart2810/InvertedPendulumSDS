@@ -7,7 +7,7 @@
     alt="Images" width="350" height="100">
   </a>
 </div>
-<h4 align="center"> WS21/22 - Prof. Kerstiens </h4>
+<h4 align="center"> WS21/22 </h4>
 <br>
 
 <!--  
