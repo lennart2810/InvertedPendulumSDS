@@ -48,7 +48,7 @@
   
 <div align="center">
   <a href="https://www.w-hs.de">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;(m_c+m_p)\ddot{x}=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;(m_c+m_p)\ddot{x}-ml\ddot{\theta}\cos(\theta)=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;(m_c+m_p)\ddot{x}-ml\ddot{\theta}\cos(\theta)+ml\dot{\theta}^2sin(\theta)=F"/>
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
   </a>
