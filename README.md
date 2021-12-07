@@ -55,16 +55,20 @@
 
 # Physics Informed Neural Networks
 ## Pendulum
+  
+  <p align="center">
+  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/pendulum_nn.gif" alt="animated" />
+  </p>   
+  
+#### Credits:
+* [free-pendulum.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-pendulum.py)
+
 ## Inverted Pendulum
 <br>
 
 
-<!-- gif -->
-<!-- 
-  <p align="center">
-  <img src="https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif" alt="animated" />
-  </p> 
--->
+
+
 
 # About The Project
 
