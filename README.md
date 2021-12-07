@@ -49,6 +49,7 @@
 <div align="center">
   <a href="https://www.w-hs.de">
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;(m_c+m_p)\ddot{x}-ml\ddot{\theta}\cos(\theta)+ml\dot{\theta}^2sin(\theta)=F" />
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\ell\ddot{\theta}-\ddot{x}\cos(\theta)-gsin(\theta)=0"\ell />
   </a>
 </div>
 
