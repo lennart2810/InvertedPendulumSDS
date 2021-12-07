@@ -4,6 +4,8 @@
 
 ![](https://latex.codecogs.com/svg.latex?\Large&space;\ddot\theta=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
 
 
 <h1 align="center"> Sondergebiete der Simulation <br> Inverted Pendulum </h1>
