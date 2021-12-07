@@ -3,9 +3,7 @@
 
 
 <div align="center">
-  <a href="https://www.w-hs.de">
   ![](https://latex.codecogs.com/svg.latex?\Large&space;\ddot\theta=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
-  </a>
 </div>
 
 
