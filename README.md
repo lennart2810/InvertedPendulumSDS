@@ -57,18 +57,18 @@
 ## Pendulum
   
 ### NN
-  
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/Pendulum%20PINN.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/pendulum_nn.gif" 
   alt="animated"  width="800" height="350" />
 </p> 
 
-#### PINN
+### PINN
+  
 
 #### Credits:
-* [Harmonic oscillator PINN.ipynb](https://github.com/benmoseley/harmonic-oscillator-pinn/blob/main/Harmonic%20oscillator%20PINN.ipynb)
-
+* [Harmonic oscillator PINN.ipynb](https://github.com/benmoseley/harmonic-oscillator-pinn/blob/main/Harmonic%20oscillator%20PINN.ipynb) <br>
+  
 ## Inverted Pendulum
 <br>
 
