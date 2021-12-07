@@ -60,7 +60,7 @@
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/Pendulum%20PINN.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/pendulum_nn.gif" 
-  alt="animated"  width="800" height="350" />
+  alt="animated"  width="800" height="320" />
 </p> 
 
 ### PINN
