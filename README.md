@@ -56,12 +56,18 @@
 # Physics Informed Neural Networks
 ## Pendulum
   
-  <p align="center">
-  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/pendulum_nn.gif" alt="animated" />
-  </p>   
+### NN
   
+<p align="center">
+  <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/Pendulum.ipynb">
+  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/pendulum_nn.gif" 
+  alt="animated"  width="1000" height="500" />
+</p> 
+
+#### PINN
+
 #### Credits:
-* [free-pendulum.py](https://github.com/benmoseley/harmonic-oscillator-pinn/blob/main/Harmonic%20oscillator%20PINN.ipynb)
+* [Harmonic oscillator PINN.ipynb](https://github.com/benmoseley/harmonic-oscillator-pinn/blob/main/Harmonic%20oscillator%20PINN.ipynb)
 
 ## Inverted Pendulum
 <br>
