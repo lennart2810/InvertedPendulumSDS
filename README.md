@@ -72,7 +72,6 @@
 ## Built With
 * [Python](https://www.python.org)
 * [JupyterNotebook](https://www.anaconda.com/products/individual#Downloads)
-* [Siemens NX]()
 * ...
 
 ## Dependencies 
