@@ -7,22 +7,13 @@
     alt="Images" width="350" height="100">
   </a>
 </div>
-<h4 align="center"> WS21/22 - Prof. Kerstiens </h4>
+<h4 align="center"> WS21/22 </h4>
 <br>
+
+<!--  
 
 # _Multibody_ Simulation
 ## Pendulum
-
-<!-- 
- 
-<div align="center">
-    <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.png" 
-    alt="Images" width="600" height="360">
-  </a>
-</div>
-
--->
-
 
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/Pendulum.ipynb">
@@ -51,20 +42,50 @@
   
 <br>
 
-
+--> 
 
 # Physics Informed Neural Networks
+
+## Equations of motion
+
+<div align="center">
+  <a href="https://www.w-hs.de">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;(m_c+m_p)\ddot{x}-ml\ddot{\theta}\cos(\theta)+ml\dot{\theta}^2sin(\theta)=F~," />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.w-hs.de">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\ell\ddot{\theta}-\ddot{x}\cos(\theta)-gsin(\theta)=0" />
+  </a>
+</div>
+
 ## Pendulum
+  
+### NN
+<p align="center">
+  <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/Pendulum%20PINN.ipynb">
+  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/pendulum_nn.gif" 
+  alt="animated"  width="800" height="320" />
+</p> 
+
+### PINN
+<p align="center">
+  <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/Pendulum%20PINN.ipynb">
+  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/pendulum_pinn.gif" 
+  alt="animated"  width="800" height="320" />
+</p> 
+  
+
+#### Credits:
+* [Harmonic oscillator PINN.ipynb](https://github.com/benmoseley/harmonic-oscillator-pinn/blob/main/Harmonic%20oscillator%20PINN.ipynb) <br>
+  
 ## Inverted Pendulum
 <br>
 
 
-<!-- gif -->
-<!-- 
-  <p align="center">
-  <img src="https://github.com/lennart2810/SDS_Projektarbeit/blob/master/Pendulum/pen.gif" alt="animated" />
-  </p> 
--->
+
+
 
 # About The Project
 
@@ -72,7 +93,6 @@
 ## Built With
 * [Python](https://www.python.org)
 * [JupyterNotebook](https://www.anaconda.com/products/individual#Downloads)
-* [Siemens NX]()
 * ...
 
 ## Dependencies 
