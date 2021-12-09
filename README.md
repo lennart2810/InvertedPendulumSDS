@@ -7,22 +7,13 @@
     alt="Images" width="350" height="100">
   </a>
 </div>
-<h4 align="center"> WS21/22 - Prof. Kerstiens </h4>
+<h4 align="center"> WS21/22 </h4>
 <br>
+
+<!--  
 
 # _Multibody_ Simulation
 ## Pendulum
-
-<!-- 
- 
-<div align="center">
-    <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.png" 
-    alt="Images" width="600" height="360">
-  </a>
-</div>
-
--->
-
 
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/Pendulum.ipynb">
@@ -51,9 +42,24 @@
   
 <br>
 
-
+--> 
 
 # Physics Informed Neural Networks
+
+## Equations of motion
+
+<div align="center">
+  <a href="https://www.w-hs.de">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;(m_c+m_p)\ddot{x}-ml\ddot{\theta}\cos(\theta)+ml\dot{\theta}^2sin(\theta)=F~," />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.w-hs.de">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\ell\ddot{\theta}-\ddot{x}\cos(\theta)-gsin(\theta)=0" />
+  </a>
+</div>
+
 ## Pendulum
   
 ### NN
@@ -69,8 +75,6 @@
   <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/pendulum_pinn.gif" 
   alt="animated"  width="800" height="320" />
 </p> 
-  
-  https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/pendulum_pinn.gif
   
 
 #### Credits:
