@@ -120,7 +120,7 @@
 
 ## Clone Repository
    ```sh
-   git clone https://github.com/lennart2810/InvertedPendulum.git
+   git clone https://github.com/lennart2810/InvertedPendulumSDS.git
    ```
 
 <!-- inline code -->
