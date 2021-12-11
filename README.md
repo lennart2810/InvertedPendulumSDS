@@ -11,7 +11,13 @@
 <br>
 
 # Equations of motion
-
+<div align="center">
+  <a href="https://en.wikipedia.org/wiki/Inverted_pendulum">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Cart-pendulum.svg" 
+    alt="Images" width="250" height="100">
+  </a>
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/2DOF/Python/Inverted%20Pendulum%20Legrange.ipynb">
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;(m_c+m_p)\ddot{x}-ml\ddot{\theta}\cos(\theta)+ml\dot{\theta}^2sin(\theta)=F~," />
