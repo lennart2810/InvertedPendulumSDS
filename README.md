@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/Inverted_pendulum">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Cart-pendulum.svg" 
-    alt="Images" width="250" height="100">
+    alt="Images" width="420">
   </a>
 </div>
 <br>
