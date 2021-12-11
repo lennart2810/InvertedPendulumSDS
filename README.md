@@ -10,17 +10,33 @@
 <h4 align="center"> WS21/22 </h4>
 <br>
 
-<!--  
+# Equations of motion
+<div align="center">
+  <a href="https://en.wikipedia.org/wiki/Inverted_pendulum">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Cart-pendulum.svg" 
+    alt="Images" width="350">
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/2DOF/Python/Inverted%20Pendulum%20Legrange.ipynb">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;(M+m)\ddot{x}-ml\ddot{\theta}\cos(\theta)+ml\dot{\theta}^2sin(\theta)=F~," />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/2DOF/Python/Inverted%20Pendulum%20Legrange.ipynb">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\ell\ddot{\theta}-\ddot{x}\cos(\theta)-gsin(\theta)=0" />
+  </a>
+</div>
 
-# _Multibody_ Simulation
-## Pendulum
-
+# Multibody Simulation
 <p align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/Pendulum.ipynb">
-  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.gif" 
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/2DOF/Python/Inverted%20Pendulum%20Legrange.ipynb">
+  <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/2DOF/Python/invertedPendulum.gif" 
   alt="animated"  width="1000" height="295" />
 </p> 
 
+<!-- 
 #### Credits:
 * [free-pendulum.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-pendulum.py)
 * [scipy.integrate.odeint example](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)
@@ -45,21 +61,6 @@
 --> 
 
 # Physics Informed Neural Networks
-
-## Equations of motion
-
-<div align="center">
-  <a href="https://www.w-hs.de">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;(m_c+m_p)\ddot{x}-ml\ddot{\theta}\cos(\theta)+ml\dot{\theta}^2sin(\theta)=F~," />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.w-hs.de">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\ell\ddot{\theta}-\ddot{x}\cos(\theta)-gsin(\theta)=0" />
-  </a>
-</div>
-
 ## Pendulum
   
 ### NN
@@ -119,7 +120,7 @@
 
 ## Clone Repository
    ```sh
-   git clone https://github.com/lennart2810/InvertedPendulum.git
+   git clone https://github.com/lennart2810/InvertedPendulumSDS.git
    ```
 
 <!-- inline code -->
