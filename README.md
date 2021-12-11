@@ -10,17 +10,20 @@
 <h4 align="center"> WS21/22 </h4>
 <br>
 
-<!--  
+ 
 
-# _Multibody_ Simulation
-## Pendulum
+# Multibody Simulation
+## Inverted Pendulum
+
+
 
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/Pendulum.ipynb">
-  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/Pendulum/Python/pendulum.gif" 
+  <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/2DOF/Python/invertedPendulum.gif" 
   alt="animated"  width="1000" height="295" />
 </p> 
 
+<!-- 
 #### Credits:
 * [free-pendulum.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-pendulum.py)
 * [scipy.integrate.odeint example](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)
