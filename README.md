@@ -30,8 +30,6 @@
 </div>
 
 # Multibody Simulation
-## Inverted Pendulum
-
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/2DOF/Python/Inverted%20Pendulum%20Legrange.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/2DOF/Python/invertedPendulum.gif" 
