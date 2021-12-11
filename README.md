@@ -2,7 +2,7 @@
 
 <h1 align="center"> Sondergebiete der Simulation <br> Inverted Pendulum </h1>
 <div align="center">
-  <a href="https://www.w-hs.de">
+  <a href="https://www.w-hs.de/maschinenbau-master-boh/">
     <img src="https://www.w-hs.de/typo3conf/ext/whs/Resources/Public/Images/Pagelayout/w-hs_pagelogo.png" 
     alt="Images" width="350" height="100">
   </a>
