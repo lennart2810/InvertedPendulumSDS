@@ -17,6 +17,11 @@
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;(m_c+m_p)\ddot{x}-ml\ddot{\theta}\cos(\theta)+ml\dot{\theta}^2sin(\theta)=F~," />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/2DOF/Python/Inverted%20Pendulum%20Legrange.ipynb">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\ell\ddot{\theta}-\ddot{x}\cos(\theta)-gsin(\theta)=0" />
+  </a>
+</div>
 
 # Multibody Simulation
 ## Inverted Pendulum
@@ -52,13 +57,6 @@
 --> 
 
 # Physics Informed Neural Networks
-
-<div align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/2DOF/Python/Inverted%20Pendulum%20Legrange.ipynb">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\ell\ddot{\theta}-\ddot{x}\cos(\theta)-gsin(\theta)=0" />
-  </a>
-</div>
-
 ## Pendulum
   
 ### NN
