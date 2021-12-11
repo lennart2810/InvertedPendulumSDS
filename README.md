@@ -10,7 +10,13 @@
 <h4 align="center"> WS21/22 </h4>
 <br>
 
- 
+# Equations of motion
+
+<div align="center">
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/2DOF/Python/Inverted%20Pendulum%20Legrange.ipynb">
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;(m_c+m_p)\ddot{x}-ml\ddot{\theta}\cos(\theta)+ml\dot{\theta}^2sin(\theta)=F~," />
+  </a>
+</div>
 
 # Multibody Simulation
 ## Inverted Pendulum
@@ -46,14 +52,6 @@
 --> 
 
 # Physics Informed Neural Networks
-
-## Equations of motion
-
-<div align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/2DOF/Python/Inverted%20Pendulum%20Legrange.ipynb">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;(m_c+m_p)\ddot{x}-ml\ddot{\theta}\cos(\theta)+ml\dot{\theta}^2sin(\theta)=F~," />
-  </a>
-</div>
 
 <div align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/2DOF/Python/Inverted%20Pendulum%20Legrange.ipynb">
