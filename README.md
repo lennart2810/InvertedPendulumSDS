@@ -63,6 +63,14 @@
 # Physics Informed Neural Networks
 ## Pendulum
   
+### Numerical Solution
+<p align="center">
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Pendulum%20Legrange.ipynb">
+  <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Pendulum.gif" 
+  alt="animated"  width="1000" height="295" />
+</p> 
+  
+  
 ### NN
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/Pendulum%20PINN.ipynb">
