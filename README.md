@@ -85,16 +85,20 @@
   alt="animated"  width="800" height="320" />
 </p> 
   
-
-#### Credits:
-* [Harmonic oscillator PINN.ipynb](https://github.com/benmoseley/harmonic-oscillator-pinn/blob/main/Harmonic%20oscillator%20PINN.ipynb) <br>
-  
 ## Inverted Pendulum
+  
+## NN Tensorflow
+  
+<p align="center">
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/Inverted%20Pendulum%20PINN.ipynb">
+  <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/InvertedPendulum_NN.gif" 
+  alt="animated"  width="800" height="320" />
+</p> 
+  
+  
+  
+
 <br>
-
-
-
-
 
 # About The Project
 
