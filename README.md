@@ -87,7 +87,7 @@
   
 ## Inverted Pendulum
   
-## NN Tensorflow
+### NN Tensorflow
   
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/Inverted%20Pendulum%20PINN.ipynb">
