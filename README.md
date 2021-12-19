@@ -50,14 +50,14 @@
 # Physics Informed Neural Networks
   
 ## Pendulum
-### NN
+### NN (Pytorch)
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/Pendulum%20PINN.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/pendulum_nn.gif" 
   alt="animated"  width="800" height="320" />
 </p> 
 
-### PINN
+### PINN (Pytorch)
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/Pendulum%20PINN.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/pendulum_pinn.gif" 
