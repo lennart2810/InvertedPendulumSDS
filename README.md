@@ -29,48 +29,27 @@
   </a>
 </div>
 
-# Multibody Simulation
+# Multibody Simulation (Numerical Solution)
+
+## Pendulum
+<p align="center">
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Pendulum%20Legrange.ipynb">
+  <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Pendulum.gif" 
+  alt="animated"  width="1000" height="295" />
+</p> 
+
+## Inverted Pendulum
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Inverted%20Pendulum%20Legrange.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum.gif" 
   alt="animated"  width="1000" height="295" />
 </p> 
 
-<!-- 
-#### Credits:
-* [free-pendulum.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-pendulum.py)
-* [scipy.integrate.odeint example](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)
 
-## Inverted Pendulum
-  
-### 1 Degree of Freedom
-
-<p align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/InvertedPendulum/1DOF/Matlab/inverted_pendulum_data.m">
-  <img src="https://github.com/lennart2810/InvertedPendulum/blob/master/MKS/InvertedPendulum/1DOF/Matlab/InvertedPendulum1DOF.gif" 
-  alt="animated"  width="420" height="400" />
-</p> 
-  
-### 2 DOF
-  
-#### Credits:
-* [free-cart.py](https://github.com/zjor/inverted-pendulum/blob/master/python/free-cart.py)
-  
-<br>
-
---> 
 
 # Physics Informed Neural Networks
+  
 ## Pendulum
-  
-### Numerical Solution
-<p align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Pendulum%20Legrange.ipynb">
-  <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Pendulum.gif" 
-  alt="animated"  width="1000" height="295" />
-</p> 
-  
-  
 ### NN
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulum/blob/master/PINN/Pendulum/Pendulum%20PINN.ipynb">
@@ -86,9 +65,7 @@
 </p> 
   
 ## Inverted Pendulum
-  
 ### NN Tensorflow
-  
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/Inverted%20Pendulum%20PINN.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/InvertedPendulum_NN.gif" 
