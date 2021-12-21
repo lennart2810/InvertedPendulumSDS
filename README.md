@@ -64,6 +64,9 @@
   alt="animated"  width="800" height="320" />
 </p> 
   
+### Credits
+[benmoseley](https://github.com/benmoseley/harmonic-oscillator-pinn)
+  
 ## Inverted Pendulum
 ### NN Tensorflow
 <p align="center">
