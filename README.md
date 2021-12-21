@@ -64,7 +64,7 @@
   alt="animated"  width="800" height="320" />
 </p> 
   
-## Credits
+### Credits
 [benmoseley](https://github.com/benmoseley/harmonic-oscillator-pinn)
   
 ## Inverted Pendulum
