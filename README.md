@@ -68,10 +68,18 @@
 [benmoseley](https://github.com/benmoseley/harmonic-oscillator-pinn)
   
 ## Inverted Pendulum
-### NN Tensorflow
+  
+### NN Pytorch
 <p align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/Inverted%20Pendulum%20PINN.ipynb">
-  <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/InvertedPendulum_NN.gif" 
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/Inverse%20Pendulum%20PINN%20UPDATE.ipynb">
+  <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/NN_lr_0.001_hidden_3x32_episodes_6000.gif" 
+  alt="animated"  width="800" height="320" />
+</p> 
+  
+### PINN Pytorch
+<p align="center">
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/Inverse%20Pendulum%20PINN%20UPDATE.ipynb">
+  <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/PINN_lr_data_0.001_lr_physics_0.01_hidden_3x64_episodes_100000.gif" 
   alt="animated"  width="800" height="320" />
 </p> 
   
