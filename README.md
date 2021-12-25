@@ -82,11 +82,13 @@
   <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/PINN_lr_data_0.001_lr_physics_0.01_hidden_3x64_episodes_100000.gif" 
   alt="animated"  width="800" height="320" />
 </p> 
-  
-  
-  
-
 <br>
+  
+# Reinforcement Learning
+<a href="https://www.w-hs.de/maschinenbau-master-boh/">
+  <img src="https://www.w-hs.de/typo3conf/ext/whs/Resources/Public/Images/Pagelayout/w-hs_pagelogo.png" 
+  alt="Images" width="350" height="100">
+</a>
 
 # About The Project
 
