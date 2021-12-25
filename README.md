@@ -87,7 +87,7 @@
 
 # Reinforcement Learning
 <p align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/CartPole.jpg">
+  <a href="https://gym.openai.com/envs/CartPole-v1/">
     <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/CartPole.jpg" 
     alt="Images" width="420">
   </a>
