@@ -82,11 +82,16 @@
   <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/PINN_lr_data_0.001_lr_physics_0.01_hidden_3x64_episodes_100000.gif" 
   alt="animated"  width="800" height="320" />
 </p> 
-  
-  
+<br>
   
 
-<br>
+# Reinforcement Learning
+<p align="center">
+  <a href="https://gym.openai.com/envs/CartPole-v1/">
+    <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/CartPole.jpg" 
+    alt="Images" width="420">
+  </a>
+</p>
 
 # About The Project
 
