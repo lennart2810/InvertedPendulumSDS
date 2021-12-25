@@ -86,10 +86,12 @@
   
 
 # Reinforcement Learning
-<a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/CartPole.jpg">
-  <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/CartPole.jpg" 
-  alt="Images" width="420">
-</a>
+<p align="center">
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/CartPole.jpg">
+    <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/CartPole.jpg" 
+    alt="Images" width="420">
+  </a>
+</p>
 
 # About The Project
 
