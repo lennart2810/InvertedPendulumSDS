@@ -84,9 +84,10 @@
 </p> 
 <br>
   
+
 # Reinforcement Learning
-<a href="https://www.w-hs.de/maschinenbau-master-boh/">
-  <img src="https://www.w-hs.de/typo3conf/ext/whs/Resources/Public/Images/Pagelayout/w-hs_pagelogo.png" 
+<a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/CartPole.jpg">
+  <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/CartPole.jpg" 
   alt="Images" width="350" height="100">
 </a>
 
