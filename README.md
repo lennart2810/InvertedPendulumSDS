@@ -14,23 +14,25 @@
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/Inverted_pendulum">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Cart-pendulum.svg" 
-    alt="Images" width="350">
+    alt="Images" width="200">
   </a>
 </div>
 <br>
 <div align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Inverted%20Pendulum%20Legrange.ipynb">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;(M+m)\ddot{x}-ml\ddot{\theta}\cos(\theta)+ml\dot{\theta}^2sin(\theta)=F~," />
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;(M+m)\ddot{x}-ml\ddot{\theta}\cos(\theta)+ml\dot{\theta}^2sin(\theta)=F-D\dot{x}~," />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Inverted%20Pendulum%20Legrange.ipynb">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\ell\ddot{\theta}-\ddot{x}\cos(\theta)-gsin(\theta)=0" />
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\ell\ddot{\theta}-\ddot{x}\cos(\theta)-gsin(\theta)=-d\dot{\theta}" />
   </a>
 </div>
 
 # Multibody Simulation (Numerical Solution)
 
+<!-- 
+ 
 ## Pendulum
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Pendulum%20Legrange.ipynb">
@@ -38,7 +40,8 @@
   alt="animated"  width="1000" height="295" />
 </p> 
 
-## Inverted Pendulum
+-->
+
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Inverted%20Pendulum%20Legrange.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum.gif" 
