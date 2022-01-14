@@ -31,12 +31,18 @@
 
 # Multibody Simulation (Numerical Solution)
 
+<!-- 
+ 
 ## Pendulum
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Pendulum%20Legrange.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Pendulum.gif" 
   alt="animated"  width="1000" height="295" />
 </p> 
+
+-->
+
+
 
 ## Inverted Pendulum
 <p align="center">
