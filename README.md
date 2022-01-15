@@ -118,3 +118,28 @@
 <!-- Clone the repo `git clone https://github.com/lennart2810/SDS_Projektarbeit.git` to get started. -->
 
 <p align="right"><a href="#top">back to top</a></p>
+
+
+
+## Original: [nicknochnack](https://github.com/nicknochnack/TensorflowKeras-ReinforcementLearning/blob/master/Deep%20Reinforcement%20Learning.ipynb)
+
+### Dependencies
+
+
+```python
+#!pip install tensorflow==2.3.0
+#!pip install gym
+#!pip install keras
+#!pip install keras-rl2
+```
+
+<a href="https://gym.openai.com/">
+  <img src="https://gym.openai.com/assets/dist/footer/openai-logo-ce082f60cc.svg" 
+  alt="Images" width="200">
+</a>
+<a href="https://gym.openai.com/">
+  <img src="https://gym.openai.com/assets/dist/home/header/home-icon-54c30e2345.svg" 
+  alt="Images" width="42">
+</a>
+
+> *Gym* ist ein Tool zur Entwicklung und zum Vergleich von **Reinforcement-Learning-Algorithmen**.
