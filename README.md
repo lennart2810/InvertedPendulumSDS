@@ -28,6 +28,7 @@
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;\ell\ddot{\theta}-\ddot{x}\cos(\theta)-gsin(\theta)=-d\dot{\theta}" />
   </a>
 </div>
+<br>
 
 # Multibody Simulation (Numerical Solution)
 
