@@ -8,7 +8,7 @@
   </a>
 </div>
 <h4 align="center"> WS21/22 </h4>
-<br>
+<br />
 
 # Equations of motion
 <div align="center">
@@ -28,7 +28,7 @@
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;\ell\ddot{\theta}-\ddot{x}\cos(\theta)-gsin(\theta)=-d\dot{\theta}" />
   </a>
 </div>
-<br>
+<br />
 
 # Multibody Simulation (Numerical Solution)
 
@@ -48,7 +48,7 @@
   <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum.gif" 
   alt="animated"  width="1000" height="295" />
 </p> 
-
+<br />
 
 
 # Physics Informed Neural Networks
@@ -68,9 +68,6 @@
   alt="animated"  width="800" height="320" />
 </p> 
   
-### Credits
-[benmoseley](https://github.com/benmoseley/harmonic-oscillator-pinn)
-  
 ## Inverted Pendulum
   
 ### NN Pytorch
@@ -86,7 +83,7 @@
   <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/PINN_lr_data_0.001_lr_physics_0.01_hidden_3x64_episodes_100000.gif" 
   alt="animated"  width="800" height="320" />
 </p> 
-<br>
+<br />
   
 
 # Reinforcement Learning
@@ -95,7 +92,8 @@
   <a href="https://keon.github.io/deep-q-learning/">
   <img src="https://keon.github.io/images/deep-q-learning/animation.gif" 
   alt="animated"  width="420" />
-</p> 
+</p>
+<br />
 
 
 
