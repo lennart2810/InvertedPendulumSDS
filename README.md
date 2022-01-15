@@ -96,6 +96,14 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://keon.github.io/deep-q-learning/">
+  <img src="https://keon.github.io/images/deep-q-learning/animation.gif" 
+  alt="animated"  width="800" height="320" />
+</p> 
+
+
+
 # About The Project
 
 
