@@ -97,6 +97,9 @@
 * [Inverted Pendulum RL](https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/Inverted%20Pendulum%20RL.ipynb)
 * [othneildrew](https://github.com/othneildrew/Best-README-Template)
   
+<h4 align="center"> * [Inverted Pendulum RL](https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/Inverted%20Pendulum%20RL.ipynb) </h4>
+<br />
+  
  
 
 
