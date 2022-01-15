@@ -89,12 +89,6 @@
   
 
 # Reinforcement Learning
-<p align="center">
-  <a href="https://gym.openai.com/envs/CartPole-v1/">
-    <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/CartPole.jpg" 
-    alt="Images" width="420">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://keon.github.io/deep-q-learning/">
@@ -104,23 +98,7 @@
 
 
 
-# About The Project
-
-
-## Built With
-* [Python](https://www.python.org)
-* [JupyterNotebook](https://www.anaconda.com/products/individual#Downloads)
-* ...
-
-## Dependencies 
-* sympy
-* scipy
-* matplotlib
-* numpy
-* ...
-
-
-## Acknowledgments
+# Acknowledgments
 ### Code 
 * [othneildrew](https://github.com/othneildrew/Best-README-Template)
 * [lukepolson](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid4.ipynb)
@@ -141,8 +119,5 @@
 
 <!-- inline code -->
 <!-- Clone the repo `git clone https://github.com/lennart2810/SDS_Projektarbeit.git` to get started. -->
-
-## Contact
-_Lennart Fuhrig_ - [GitHub](https://github.com/lennart2810) 
 
 <p align="right"><a href="#top">back to top</a></p>
