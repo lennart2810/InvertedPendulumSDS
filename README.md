@@ -93,6 +93,7 @@
   <img src="https://keon.github.io/images/deep-q-learning/animation.gif" 
   alt="animated"  width="420" />
 </p>
+  
 * [Inverted Pendulum RL](https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/Inverted%20Pendulum%20RL.ipynb)
 <br />
   
