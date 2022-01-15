@@ -61,7 +61,7 @@
 <div align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/Inverted%20Pendulum%20RL.ipynb">
     <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/images/Training.png" 
-    alt="Images" width="420">
+    alt="Images" width="840">
   </a>
 </div>
 <br />
