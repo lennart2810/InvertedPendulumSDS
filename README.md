@@ -143,3 +143,44 @@
 </a>
 
 > *Gym* ist ein Tool zur Entwicklung und zum Vergleich von **Reinforcement-Learning-Algorithmen**.
+
+
+```python
+import time
+time.sleep(1)
+
+import random
+from numpy import mean
+import matplotlib.pyplot as plt
+
+episodes = 50
+scores = []
+
+for episode in range(1, episodes+1):
+    
+    state = env.reset()
+    done = False
+    score = 0 
+    
+    while not done:
+        env.render()
+        action = random.choice([0,1])
+        new_state, reward, done, info = env.step(action)
+        score += reward
+    scores.append(score)
+env.close()
+
+mean_reward = mean(scores)
+fig, (ax1) = plt.subplots(1,1, figsize=(7,3),dpi=120)
+ax1.plot(scores, label=r'scores')
+ax1.plot([0,episodes-1],[mean_reward,mean_reward], label=r'mean')
+ax1.set_title('Random Actions')
+ax1.set_xlabel('episode')  
+ax1.set_ylabel('reward')  
+ax1.legend(loc=('best'), frameon=False, fontsize=10)
+plt.savefig("images/RandomActions.png")
+```
+
+
+    
+![png](output_13_0.png)
