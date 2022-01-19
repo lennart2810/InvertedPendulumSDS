@@ -25,7 +25,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Inverted%20Pendulum%20Legrange.ipynb">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\ellm(\ell\ddot{\theta}-\ddot{x}\cos(\theta)-gsin(\theta))=-d\dot{\theta}" />
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\ell\ddot{\theta}-\ddot{x}\cos(\theta)-gsin(\theta)=-d\dot{\theta}" />
   </a>
 </div>
 <br />
