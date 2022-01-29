@@ -84,7 +84,7 @@
 # Acknowledgments
 ### Code 
 * [othneildrew](https://github.com/othneildrew/Best-README-Template)
-* [lukepolson](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid4.ipynb)
+* [lukepolson](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid25.ipynb)
 * [zjor](https://github.com/zjor/inverted-pendulum)
 * [Brunton and Kutz](http://databookuw.com)
 * [Ben Moseley](https://github.com/benmoseley/harmonic-oscillator-pinn)
