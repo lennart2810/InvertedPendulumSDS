@@ -31,6 +31,12 @@
 <br />
 
 # Multibody Simulation
+
+## SymPy.Mechanics and PyDy
+
+bild von pydy
+
+## Analytical Solution
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Inverted%20Pendulum%20Legrange.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum.gif" 
@@ -46,7 +52,7 @@
 </p>
   
 <div align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/Inverted%20Pendulum%20RL.ipynb">
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/Inverted%20Pendulum%20RL%20-%20Train.ipynb">
     <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/RL/images/Training.png" 
     alt="Images" width="840">
   </a>
