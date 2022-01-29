@@ -36,7 +36,7 @@
 <div align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Pr_Inverted_Pendulum-Copy3_linear.ipynb">
     <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Inverted%20Pendulum%20-%20PyDy.PNG" 
-    alt="Images" width="200">
+    alt="Images" width="800">
   </a>
 </div>
 
