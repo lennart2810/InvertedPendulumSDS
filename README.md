@@ -34,7 +34,7 @@
 
 ## SymPy.Mechanics and PyDy
 <div align="center">
-  <a href="https://en.wikipedia.org/wiki/Inverted_pendulum">
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Pr_Inverted_Pendulum-Copy3_linear.ipynb">
     <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Inverted%20Pendulum%20-%20PyDy.PNG" 
     alt="Images" width="200">
   </a>
@@ -76,7 +76,7 @@ bild von pydy
   alt="animated"  width="800" height="320" />
 </p> 
   
-## PINN Pytorch
+## PINN
 <p align="center">
   <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/Inverse%20Pendulum%20PINN.ipynb">
   <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/PINN/InvertedPendulum/PINN_lr_data_0.001_lr_physics_0.01_hidden_3x64_episodes_100000.gif" 
