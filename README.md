@@ -34,16 +34,16 @@
 
 ## SymPy.Mechanics and PyDy
 <div align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Inverted%20Pendulum%20MKS.ipynb">
-    <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Inverted%20Pendulum%20-%20PyDy.PNG" 
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/Inverted%20Pendulum%20MKS.ipynb">
+    <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/Inverted%20Pendulum%20-%20PyDy.PNG" 
     alt="Images" width="600">
   </a>
 </div>
 
 ## Analytical Solution
 <p align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Inverted%20Pendulum%20Legrange.ipynb">
-  <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum.gif" 
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/Inverted%20Pendulum%20Legrange.ipynb">
+  <img src="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/InvertedPendulum.gif" 
   alt="animated"  width="1000" height="295" />
 </p> 
 <br />
