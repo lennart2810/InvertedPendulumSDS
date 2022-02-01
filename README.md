@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/Inverted%20Pendulum%20Legrange.ipynb">
+  <a href="https://github.com/lennart2810/InvertedPendulumSDS/blob/master/MKS/InvertedPendulum/Inverted%20Pendulum%20Legrange.ipynb">
     <img src="https://latex.codecogs.com/svg.latex?\Large&space;(M+m)\ddot{x}-ml\ddot{\theta}\cos(\theta)+ml\dot{\theta}^2sin(\theta)=F-D\dot{x}~," />
   </a>
 </div>
